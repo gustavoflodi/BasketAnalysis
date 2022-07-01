@@ -5,7 +5,7 @@ Learning principles and concepts of Association Analysis.
 
 ### What is it about?
 
-> Association Analysis is about setting up association rules, i.e., predicting patterns of connections between attributes. If one event A together with event B happened, can we expect to see those two heppening again? If n attributes are known, can we determine m attributes unkknown. It all comes clear with examples, so don't worry!
+> Association Analysis is about setting up association rules, i.e., predicting patterns of connections between attributes. If one event A together with event B happened, can we expect to see those two happening again? If n attributes are known, can we determine m attributes unknown. It all comes clear with examples, so don't worry!
 
 ### Important terms
 
